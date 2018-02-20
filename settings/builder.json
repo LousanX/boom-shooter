@@ -1,0 +1,33 @@
+{
+  "appKey": "B6B3568E-6351-134B-0970-289F01A32A7D",
+  "appSecret": "434f182df535d1c0c7be7370b389ac85",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "includeAnySDK": true,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "www.cocos.org",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.brickEXX",
+  "privateKey": "54AF91AD01BE137F3EE0A11C5BE5FB70",
+  "renderMode": "0",
+  "startScene": "91004d89-a4d8-419d-8399-31b7b857fb95",
+  "title": "BoomShooter",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "d157d7f4-292f-4a",
+  "zipCompressJs": true
+}
